@@ -1,0 +1,40 @@
+body{
+   background-image: url("assets/back1.jpg");
+  
+}
+#background2{
+	 background-color: white;
+}
+
+h1{
+	margin-top:50px;
+	font-family:verdana;
+}
+p{
+	font-family:verdana;
+}
+#marimg{
+	margin-top:200px;
+}
+
+#background4{
+	background-color: gray;
+}
+h5{
+	color:white;
+	
+}
+navbar{
+	color:back;
+}
+/* Large desktop */
+@media (min-width: 1200px) { ... }
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { ... }
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { ... }
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) { ... }
